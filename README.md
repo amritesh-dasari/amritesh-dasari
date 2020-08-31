@@ -15,7 +15,6 @@
 
 ---------------
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritesh-dasari&count_private=true&show_icons=true&theme=radical>" />
-</br>
 ![Amritesh's Github Stats](https://github-readme-stats.vercel.app/api?username=amritesh-dasari&count_private=true&show_icons=true&theme=radical)
 </br>
 ---------------
