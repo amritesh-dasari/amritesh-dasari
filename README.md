@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello There! 🙂
+### Connect with me:
 
-<!--
-**amritesh-dasari/amritesh-dasari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-Here are some ideas to get you started:
+[website]: https://amritesh-dasari.github.io/
+[youtube]: https://www.youtube.com/channel/UCduQmumax7ExDB0xRu-rkCA
+[instagram]: https://www.instagram.com/lifes_alpha_tester/
+[linkedin]: https://www.linkedin.com/in/amritesh-dasari/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+---------------
+
+[!Amritesh-Dasari's github stats](https://github-readme-stats.vercel.app/api?username=amritesh-dasari&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+
+---------------
