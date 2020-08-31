@@ -1,4 +1,4 @@
-### Hello There! 🙂
+### Hello There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### Connect with me:
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
